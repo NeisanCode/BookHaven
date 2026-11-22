@@ -17,7 +17,10 @@
     "lucide-react": "^1.77.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
+<<<<<<< HEAD
     "react-router": "^8.5.2",
+=======
+>>>>>>> 518a8a98e01b48067bd0f7c4b0fe96c3b9a5d7f7
     "shadcn": "^4.23.0",
     "tw-animate-css": "^1.4.0"
   },
